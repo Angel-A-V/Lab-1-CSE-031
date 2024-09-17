@@ -1,0 +1,60 @@
+TPS 1:
+
+Names:
+    Angel Vargas
+    Roshan Kattil
+    Jordan Hugnh
+    Gurkarn Singh
+
+Links:
+    PowerShell: https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/01-getting-started?view=powershell-7.4
+    Linus: https://www.geeksforgeeks.org/linux-tutorial/?ref=outind
+    Macos: https://youtu.be/nL2Wm0WwVQk?si=oZOHU_RTo0DgIBgR
+
+TPS 2:
+
+    Question 1:
+    You can open the terminal using the combination of windows key + x and it gives you a display saying terminal, or you can always use the power shell app with admin privileges
+    You can also use the combination of windows key + r and then type cmd and it will open command directory
+
+        Part A:
+            Yes you can open multiple terminals at once
+
+        Part B: 
+            I believe this would be necessary for debugging, and real time viewing and organization and certain projects may require multiple terminals for working together
+
+    Question 2:
+        Ls list the files in the current directory
+    
+    Question 3:
+        On windows you have to do this " cd C:\Users\<user-name>\Desktop " 
+    
+    Question 4:
+        To make a new directory we have to use the command "mkdir <name>" and the name isn't in these < it's just an example.
+
+TPS 3:
+
+    Question 1:
+        Source 1: https://code.visualstudio.com/docs/cpp/config-mingw
+        Source 2: https://youtu.be/COZw6XetvR0?si=IvZhkFEqxM49p4pm
+    
+    Question 3:
+        To compile main.c on windows you can use "g++ main.c filename" and then you type "./filename"
+    
+    Question 4:
+        You know it has run successfully when there is no complation errors
+    
+    Question 5:
+        what -c flag does in gcc, complies source file into object files but not link them up
+    
+    Question 5:
+        The -g flag in gcc tells the commpiler to include the debugging inforamtion in the program being compiled
+    
+    Question 6:
+        To change the name of the executable file, you type "mv filename cselab1" which in our case changes filename to our new name cselab1
+    
+    Question 7:
+        What it does is compile an executable file with a default name as "a.out" in which we have to run seprately with a different command
+    
+    Question 8:
+        The command to run the code we just compiles is "./a", it's different with different file names but the default executable is a
