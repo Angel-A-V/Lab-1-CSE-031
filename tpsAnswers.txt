@@ -58,5 +58,3 @@ TPS 3:
     
     Question 8:
         The command to run the code we just compiles is "./a", it's different with different file names but the default executable is a
-
-    Is this going to work or is it going to be special ed
