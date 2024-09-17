@@ -58,3 +58,49 @@ TPS 3:
     
     Question 8:
         The command to run the code we just compiles is "./a", it's different with different file names but the default executable is a
+
+TPS 4:
+
+    Pseudocode 
+
+Int value, evenSum, evenCount, oddSum, oddCount;
+Int temp1, temp2;
+Int tempSum;
+
+for(int i = 0; Value != 0; i++)
+
+	Temp1 = i%10, temp2 = i%100
+
+	if(temp1 == 1 && temp2  != 11)
+		print(“Enter the value” i “st value”)
+		scanf(value)
+	Else if(temp1 == 2 && temp2  != 12)
+		print(“Enter the value” i “nd value”)
+		scanf(value)
+	Else
+{
+
+print(“Enter the value” i “rd value”)
+		scanf(value)
+
+}
+
+if( value < 10)
+	tempSum += value;
+If(value < 100)
+	tempSum += value%10;
+tempSum += value;
+
+
+If tempSum%2 == 0
+	Evensum += value;
+	Evencounter += value
+Evencounter += 1;
+Else
+	oddSum += value;
+	Oddcounter += 1;
+
+print
+
+This was some of the Pseudocode written during the Lab Session, we 
+didn't end up finishing but it we did have a group member go up and explain.
