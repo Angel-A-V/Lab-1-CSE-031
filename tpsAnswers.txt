@@ -47,14 +47,14 @@ TPS 3:
     Question 5:
         what -c flag does in gcc, complies source file into object files but not link them up
     
-    Question 5:
+    Question 6:
         The -g flag in gcc tells the commpiler to include the debugging inforamtion in the program being compiled
     
-    Question 6:
+    Question 7:
         To change the name of the executable file, you type "mv filename cselab1" which in our case changes filename to our new name cselab1
     
-    Question 7:
+    Question 8:
         What it does is compile an executable file with a default name as "a.out" in which we have to run seprately with a different command
     
-    Question 8:
+    Question 9:
         The command to run the code we just compiles is "./a", it's different with different file names but the default executable is a
